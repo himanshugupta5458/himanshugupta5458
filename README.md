@@ -122,16 +122,7 @@ class HimanshuGupta:
 
 
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
 
 ## 🎯 What I'm Looking For
 
@@ -172,21 +163,11 @@ I thrive in environments where **"figure it out"** is a feature, not a bug. Curr
 | 🥇 **Syn-Genius 2018** | Overall Rank 2, District Rank 1 |
 | 💰 **Cost Savings** | $1M+ in automation & optimization |
 | 📈 **Revenue Impact** | $400K+ annual impact through strategic initiatives |
-| 🎯 **ML Accuracy** | 82-84% accuracy in production models |
-
 </div>
 
 ---
 
-## 📝 Latest Blog Posts & Thoughts
 
-<!-- BLOG-POST-LIST:START -->
-- Coming Soon: Building AI Products that Actually Ship
-- Coming Soon: Why Most Features Don't Need to Exist
-- Coming Soon: From IIT to Seaplanes - A Non-Linear Journey
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 💬 Let's Connect
 
