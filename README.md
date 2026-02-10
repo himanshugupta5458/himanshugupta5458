@@ -6,10 +6,10 @@
 
 **Turning complex problems into automated solutions that actually work**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshugupta5458/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Himanshu.g302000@gmail.com)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](your-behance-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](your-portfolio-url)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/himanshugupta178)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]([your-portfolio-url](https://portfolio-himanshugupta.netlify.app/))
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=IIT+Madras+Graduate;AI+Product+Manager;Full-Stack+Problem+Solver;Building+0%E2%86%921+Products" alt="Typing SVG" />
 
@@ -21,7 +21,10 @@
 
 I'm that PM who opens **VS Code** before opening **Figma**. Currently at **Trans Maldivian Airways** (world's largest seaplane operator), working in the CEO's office and turning operational nightmares into automated solutions.
 
+On the side, I run **Morchadi Jewels** - a D2C brand where I handle everything from tech infrastructure to business operations. Because why just manage products when you can build entire businesses?
+
 I don't just manage products - **I build them, deploy them, and make sure they deliver results.**
+
 ```python
 class HimanshuGupta:
     def __init__(self):
@@ -29,6 +32,7 @@ class HimanshuGupta:
         self.education = "IIT Madras | Mechanical Engineering"
         self.location = "Maldives 🇲🇻"
         self.current_company = "Trans Maldivian Airways"
+        self.side_hustle = "Morchadi Jewels (D2C Brand)"
         self.philosophy = "Start with the problem, not the tech"
     
     def skills(self):
@@ -36,7 +40,8 @@ class HimanshuGupta:
             "ai_ml": ["Python", "LLMs", "NLP", "Predictive Models", "Prompt Engineering"],
             "data": ["SQL", "Power BI", "A/B Testing", "Statistical Analysis"],
             "product": ["0→1 Building", "User Research", "Stakeholder Management"],
-            "engineering": ["Flask", "Streamlit", "REST APIs", "AWS", "Web Scraping"]
+            "engineering": ["Flask", "Streamlit", "REST APIs", "AWS", "Web Scraping"],
+            "business": ["D2C Operations", "E-commerce", "Digital Marketing", "P&L Management"]
         }
     
     def approach(self):
@@ -95,7 +100,6 @@ class HimanshuGupta:
 ### 🤖 AI & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
@@ -103,7 +107,6 @@ class HimanshuGupta:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white)
 
 ### ☁️ Cloud & Deployment
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -163,10 +166,19 @@ I thrive in environments where **"figure it out"** is a feature, not a bug. Curr
 | 🥇 **Syn-Genius 2018** | Overall Rank 2, District Rank 1 |
 | 💰 **Cost Savings** | $1M+ in automation & optimization |
 | 📈 **Revenue Impact** | $400K+ annual impact through strategic initiatives |
+| 💍 **D2C Brand** | Built & operating Morchadi Jewels end-to-end |
 </div>
 
 ---
 
+## 📝 Current Focus
+
+- 🔨 Building AI automation tools for personal productivity
+- 💍 Scaling Morchadi Jewels operations
+- 📚 Exploring opportunities in AI/ML startup ecosystem
+- 🧠 Teaching mathematics to kids
+
+---
 
 
 ## 💬 Let's Connect
